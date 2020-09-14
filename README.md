@@ -2,7 +2,7 @@
 
 A simple GUI that allows two users to play tic-tac-toe. Each player takes a turn until either Player X or Player O get three in a row. If either player cannot get three in a row before the grid is filled up, the game will result in a draw. 
 
-[See it in action](https://mcarpent87.github.io/tic_tac_toe/)
+[See it in action](https://mcarpent87.github.io/tic-tac-toe/)
 
 ## Getting Started
 
